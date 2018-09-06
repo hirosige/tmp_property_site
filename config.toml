@@ -35,6 +35,7 @@ canonifyurls = true
   job = "Business Development"
   location = "Bangkok"
   tel = "test"
+  email = "property@suneikii.com"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
@@ -91,15 +92,8 @@ canonifyurls = true
   weight = 1
   identifier = "mail-us"
   name = "Mail Us"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-facebook\"></i>"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-envelope\"></i>"
   url = "mailto: property@suneikii.com"
-
-[[menu.misc]]
-  weight = 2
-  identifier = "call-us"
-  name = "Call Us"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
-  url = "tel: 0888888888"
 
 [params]
   # Customize date format use to render blog post date, categories and other

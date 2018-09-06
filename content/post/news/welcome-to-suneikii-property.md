@@ -2,13 +2,9 @@
 title: "Welcome to Suneikii Property"
 date: 2018-09-06
 categories:
-- suneikii-property
+- news
 tags:
-- hexo theme
-- responsive
-- gravatar
-- disqus
-- google analytics
+- suneikii
 keywords:
 - disqus
 - google

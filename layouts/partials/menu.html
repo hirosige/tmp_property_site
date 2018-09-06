@@ -2,7 +2,7 @@
   <li class="sidebar-button">
     {{ if and (in .URL "://") (not (in .URL (printf "%s" $.root.Site.BaseURL))) }}
       <a class="sidebar-button-link {{ if eq .Identifier "search" }}open-algolia-search{{ end }}" href="{{ .URL | safeURL }}" target="_blank" rel="noopener">
-    {{ else if or (in .URL "mailto:") (in .URL "tel:") }}
+    {{ else if (in .URL "mailto:") }}
       <a class="sidebar-button-link {{ if eq .Identifier "search" }}open-algolia-search{{ end }}" href="{{ .URL }}">
     {{ else }}
       <a class="sidebar-button-link {{ if eq .Identifier "search" }}open-algolia-search{{ end }}" href="{{ .URL | relLangURL }}">
