@@ -2,7 +2,7 @@
 title: "Elements showcase"
 date: 2018-09-06
 categories:
-- condominium
+- home office
 tags:
 - html elements
 - markdown

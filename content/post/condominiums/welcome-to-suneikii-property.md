@@ -2,8 +2,7 @@
 title: "Welcome to Suneikii Property"
 date: 2018-09-06
 categories:
-- suneikii.property
-- releases
+- condominium
 tags:
 - hexo theme
 - responsive

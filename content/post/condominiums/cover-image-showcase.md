@@ -7,8 +7,7 @@ metaAlignment: center
 coverMeta: out
 date: 2015-05-13
 categories:
-- tranquilpeak
-- features
+- condominium
 tags:
 - cover image
 ---

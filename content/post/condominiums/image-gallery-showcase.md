@@ -12,8 +12,7 @@ gallery:
 - //d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-26.jpg "Lamborghini"
 - //d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-18.jpg
 categories:
-- tranquilpeak
-- features
+- condominium
 tags:
 - image gallery
 ---

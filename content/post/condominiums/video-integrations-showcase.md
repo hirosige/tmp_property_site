@@ -4,7 +4,7 @@ date: 2014-08-09
 thumbnailImagePosition: left
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/video-integration-showcase/peak-140.jpg
 categories:
-- condominiums
+- condominium
 tags:
 - videos integration
 - youtube
