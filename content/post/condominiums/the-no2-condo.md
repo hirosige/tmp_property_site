@@ -4,8 +4,8 @@ date: 2018-09-05
 categories:
 - condominium
 tags:
-- html elements
-- markdown
+- brand-new
+- hot
 thumbnailImagePosition: left
 thumbnailImage: //pix6.agoda.net/hotelImages/153/1534398/1534398_16100703410047513128.jpg?s=1024x768
 ---
