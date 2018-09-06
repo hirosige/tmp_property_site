@@ -111,5 +111,5 @@ fringilla mauris placerat ac. Nullam luctus bibendum risus. Ut cursus sed ipsum 
 
 ### Contact
 
-Tel: <a>test</a><br>
+Tel: <a href="tel:0628974555">0628974555</a><br>
 Email: <a href="mailto:property@suneikii.com">property@suneikii.com</a>
