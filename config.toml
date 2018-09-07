@@ -204,7 +204,7 @@ description = "We find out your home"
   [params.header.rightLink]
     class = ""
     icon = ""
-    url = "/about"
+    url = "/#about"
 
   # Customize link of author avatar in sidebar
   # [params.sidebar.profile]
