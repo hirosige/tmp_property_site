@@ -87,35 +87,35 @@ fringilla mauris placerat ac. Nullam luctus bibendum risus. Ut cursus sed ipsum 
 
 ### Furniture
 
-1. Bed
-2. Mattress
-3. Wardrobe
-4. Sofa
-5. Working Desk
-6. Dining Table
-7. Shoe cabinet
+- [x] Bed
+- [x] Mattress
+- [x] Wardrobe
+- [x] Sofa
+- [x] Working Desk
+- [x] Dining Table
+- [x] Shoe Cabinet
 
 ### Appliance
 
-1. Air Conditioner
-2. Water Heater
-3. Microwave
-4. Refrigerater
-5. Washing Machine
-6. TV
+- [x] Air Conditioner
+- [x] Water Heater
+- [x] Microwave
+- [x] Refrigerater
+- [x] Washing Machine
+- [x] TV
 
 ### Facilities
 
-1. Fitness
-2. Yoga Room
-3. Sauna Room
-4. Playground
-5. Private Parking
-6. Pet
-7. Swimming Pool
-8. Card Access
-9. CCTV
-10. 24H Secirity Services
+- [x] Fitness
+- [x] Yoga Room
+- [x] Sauna Room
+- [x] Playground
+- [x] Private Parking
+- [x] Pet
+- [x] Swimming Pool
+- [x] Card Access
+- [x] CCTV
+- [x] 24H Secirity Services
 
 ### Contact
 

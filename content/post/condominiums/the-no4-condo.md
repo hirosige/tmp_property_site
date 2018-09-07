@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
-date: {{ .Date }}
+title: "The No4 Condo"
+date: 2018-09-07T18:59:56+07:00
 categories:
 - condominium
 tags:
