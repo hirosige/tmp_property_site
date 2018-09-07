@@ -21,7 +21,7 @@ googleAnalytics = "UA-106341812-3"
 enableRobotsTXT = true
 canonifyURLs = true
 paginate = 7
-tel = "0628974555"
+phone = "0628974555"
 section = ""
 description = "We find out your home"
 
