@@ -2,7 +2,7 @@
     <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
     <div class="header-title">
       <a class="header-title-link" href="{{ "/" | relLangURL }}">{{ .Site.Title }}</a>
-      <a href="tel:0628974555" style="font-size: 1rem; border: 2px solid #349ef3; margin: 10px; padding: 2px 10px 2px;">tel: 0628974555l</a>
+      <a href="tel:0628974555" style="font-size: 1rem; border: 2px solid #349ef3; margin: 10px; padding: 2px 10px 2px;">tel: 0628974555</a>
     </div>
     {{ with .Site.Params.header.rightLink }}
       {{ if and (in .url ":") (not (in .url (printf "%s" $.Site.BaseURL))) }}

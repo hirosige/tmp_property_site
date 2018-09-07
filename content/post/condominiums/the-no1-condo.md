@@ -15,9 +15,9 @@ Check out how Tranquilpeak theme display well HTML elements (title, paragraph, b
 
 <p></p>
 
-{{< wide-image src="//pix6.agoda.net/hotelImages/153/1534398/1534398_16100703410047513128.jpg?s=1024x768" title="The Base 77" >}}
+{{< wide-image src="//pix6.agoda.net/hotelImages/153/1534398/1534398_16100703410047513128.jpg?s=1024x768" title="The No.2 Condo" >}}
 
-# Rooms
+### Rooms
 
 <p></p>
 
@@ -34,7 +34,7 @@ Check out how Tranquilpeak theme display well HTML elements (title, paragraph, b
 {{< image classes="fancybox nocaption fig-33" src="//pix6.agoda.net/hotelImages/153/1534398/1534398_16093021590047196425.jpg?s=1024x768" thumbnail="//pix6.agoda.net/hotelImages/153/1534398/1534398_16093021590047196425.jpg?s=1024x768" >}}
 <p></p>
 
-# Basic Info
+### Basic Info
 
 |  |  |
 |:----------:|------------|
@@ -50,21 +50,29 @@ Check out how Tranquilpeak theme display well HTML elements (title, paragraph, b
 
 <p></p>
 
-# Description
+### Map
+
+<p></p>
+
+<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJC8CchsGf4jARYC2aG9GyhMM&key=AIzaSyDdueX_zbg1XGbwPCLZqpc_trVmgbaPs1I" allowfullscreen></iframe>
+
+<p></p>
+
+### Description
 
 <p></p>
 
 Donec non tempus arcu.
 Phasellus adipiscing, mauris nec mollis egestas, ipsum nunc auctor velit, et rhoncus lorem ipsum at ante. Duis vel mauris nulla. Maecenas mattis interdum ante, quis sagittis.
 
-# Remarks
+### Remarks
 
 <p></p>
 
 Donec non tempus arcu.
 Phasellus adipiscing, mauris nec mollis egestas, ipsum nunc auctor velit, et rhoncus lorem ipsum at ante. Duis vel mauris nulla. Maecenas mattis interdum ante, quis sagittis.
 
-# Recommendation
+### Recommendation
 
 <p></p>
 
@@ -111,5 +119,5 @@ fringilla mauris placerat ac. Nullam luctus bibendum risus. Ut cursus sed ipsum 
 
 ### Contact
 
-Tel: <a href="tel:0628974555">0628974555</a><br>
+Tel: <a href="tel:062 897 4555">062 897 4555</a><br>
 Email: <a href="mailto:property@suneikii.com">property@suneikii.com</a>
