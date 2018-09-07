@@ -37,7 +37,7 @@ Check out how Tranquilpeak theme display well HTML elements (title, paragraph, b
 ### Basic Info
 
 |  |  |
-|:----------:|------------|
+|----------|------------|
 | Rent Fee | 30,000B / Month |
 | Deposit  | 10,000B |
 | Utility Fee | 3,000B |
