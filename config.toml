@@ -18,8 +18,11 @@ title = "Suneikii Property"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "suneikii-property"
 googleAnalytics = "UA-106341812-3"
+enableRobotsTXT = true
+canonifyURLs = true
 paginate = 7
-canonifyurls = true
+section = ""
+description = "We find out your home"
 
 [permalinks]
   post = "/:year/:month/:slug/"
