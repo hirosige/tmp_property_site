@@ -17,7 +17,7 @@ defaultContentLanguage = "en-us"
 title = "Suneikii Property"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "suneikii-property"
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-106341812-3"
 paginate = 7
 canonifyurls = true
 
