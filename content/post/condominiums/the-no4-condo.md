@@ -87,7 +87,7 @@ fringilla mauris placerat ac. Nullam luctus bibendum risus. Ut cursus sed ipsum 
 
 ### Furniture
 
-- [x] Bed
+- [ ] ~~Bed~~
 - [x] Mattress
 - [x] Wardrobe
 - [x] Sofa
