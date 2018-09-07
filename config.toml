@@ -158,7 +158,7 @@ description = "We find out your home"
   autoThumbnailImage = true
 
   # Your favicon path, default is "/favicon.png"
-  favicon = "https://s3-ap-southeast-1.amazonaws.com/suneikii.com/property.suneikii.png"
+  favicon = "https://s3-ap-southeast-1.amazonaws.com/suneikii.com/favicon.ico"
 
   # Header configuration
   # The link at the right of the header is customizable
