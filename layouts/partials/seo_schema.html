@@ -1,11 +1,16 @@
 <script type="application/ld+json">
   {
-      "@context" : "https://schema.org/",
-      "@type" : "RealEstate",
+      "@context" : "http://schema.org",
+      "@type" : "Organization",
       "mainEntityOfPage": {
            "@type": "WebPage",
            "@id": "{{ .Site.BaseURL }}"
       },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "{{ .Tel }}",
+        "contactType": "Customer service"
+      }
       "articleSection" : "{{ .Section }}",
       "name" : "{{ .Title }}",
       "headline" : "{{ .Title }}",
