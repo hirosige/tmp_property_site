@@ -32,6 +32,8 @@ description = "We providing you the best"
   tag = "tags"
   category = "categories"
   archive = "archives"
+  privacy = "privacy"
+  terms_of_use = "terms_of_use"
 
 [author]
   name = "Suneikii Property"
@@ -97,12 +99,26 @@ description = "We providing you the best"
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-twitter-square\"></i>"
   url = "https://twitter.com/SuneikiiProp"
 
-[[menu.misc]]
-  weight = 1
+[[menu.links]]
+  weight = 3
   identifier = "mail-us"
   name = "Mail Us"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-envelope\"></i>"
   url = "mailto: property@suneikii.com"
+
+[[menu.misc]]
+  weight = 1
+  identifier = "privacy-policy"
+  name = "Privacy Policy"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-user-shield\"></i>"
+  url = "/privacy"
+
+[[menu.misc]]
+  weight = 2
+  identifier = "terms_of_use"
+  name = "Terms of Use"
+  pre = "<i class=\"sidebar-button-icon far fa-lg fa-handshake\"></i>"
+  url = "/terms_of_use"
 
 [params]
   # Customize date format use to render blog post date, categories and other
