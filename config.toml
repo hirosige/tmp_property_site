@@ -23,7 +23,7 @@ canonifyURLs = true
 paginate = 7
 phone = "0628974555"
 section = ""
-description = "We find out your home"
+description = "We providing you the best"
 
 [permalinks]
   post = "/:year/:month/:slug/"
@@ -35,7 +35,7 @@ description = "We find out your home"
 
 [author]
   name = "Suneikii Property"
-  bio = "We find out your home"
+  bio = "We providing you the best"
   job = "Business Development"
   location = "Bangkok"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
