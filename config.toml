@@ -80,6 +80,13 @@ description = "We providing you the best"
 
 [[menu.main]]
   weight = 5
+  identifier = "blog"
+  name = "Blog"
+  pre = "<i class=\"sidebar-button-icon far fa-newspaper\"></i>"
+  url = "/articles"
+
+[[menu.main]]
+  weight = 6
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
