@@ -7,7 +7,7 @@ tags:
 - rent
 - condo
 thumbnailImagePosition: left
-thumbnailImage: //s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122328.jpg
+thumbnailImage: http://suneikii.com.s3.amazonaws.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122328.jpg
 ---
 
 Perfect Condo with fully furnished, easy access ways, very close to BTS.Prakhanong
