@@ -15,7 +15,7 @@ Perfect Condo with fully furnished, easy access ways, very close to BTS.Prakhano
 
 <p></p>
 
-{{< wide-image src="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122328.jpg" title="The No.2 Condo" >}}
+{{< wide-image src="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122328.jpg" title="The Bloom Sukhumvit 71" >}}
 
 ### Rooms
 
