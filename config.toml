@@ -12,8 +12,7 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 baseURL = "https://suneikii.com/"
-languageCode = "en-us"
-defaultContentLanguage = "en-us"
+defaultContentLanguage = "en"
 title = "Suneikii Property"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "suneikii-property"
@@ -23,10 +22,34 @@ canonifyURLs = true
 paginate = 7
 phone = "0628974555"
 section = ""
-description = "We providing you the best"
+
+[languages]
+[languages.en]
+  contentDir = "content/en"
+  languageName = "English"
+  countryCode = "us"
+  title = "Suneikii Property"
+  description = "We providing you the best"
+  weight = 0
+
+[languages.th]
+  contentDir = "content/th"
+  languageName = "Thai"
+  countryCode = "th"
+  title = "Suneikii Property"
+  description = "We providing you the best"
+  weight = 1
+
+[languages.ja]
+  contentDir = "content/ja"
+  languageName = "Japanese"
+  countryCode = "jp"
+  title = "Suneikii Property"
+  description = "We providing you the best"
+  weight = 2
 
 [permalinks]
-  post = "/:year/:month/:slug/"
+  post = "/:slug/"
 
 [taxonomies]
   tag = "tags"
