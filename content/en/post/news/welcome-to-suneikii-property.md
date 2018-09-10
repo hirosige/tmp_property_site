@@ -15,11 +15,11 @@ thumbnailImage: //s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/news/welco
 coverImage: //s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/news/welcome-to-suneikii-property/thumbnail.jpg
 metaAlignment: center
 ---
-Suneikii Property blabla
+Suneikii Property
 <!--more-->
 
 ![Tranquilpeak](/img/showcase.png)
-Suneikii Property blabla
+Suneikii Property
 <!-- toc -->
 
 # Suneikii Property

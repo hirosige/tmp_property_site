@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Our Blog"
+title: "コラムについて"
 date: 2018-09-07T18:59:59+07:00
 categories:
 - news
@@ -15,5 +15,6 @@ thumbnailImage: //s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/news/welco
 coverImage: //s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/news/welcome-to-suneikii-property/thumbnail.jpg
 metaAlignment: center
 ---
-We will post our news and some topics here.
+こちらに、バンコクの不動産に関する情報をコラムで配信して行きます。
+よろしければ拝見ください。
 <!--more-->
