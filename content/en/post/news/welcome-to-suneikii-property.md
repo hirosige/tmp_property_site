@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Suneikii Property"
-date: 2018-09-10T16:51:22+07:00
+date: 2018-09-10T20:55:07+07:00
 categories:
 - news
 tags:

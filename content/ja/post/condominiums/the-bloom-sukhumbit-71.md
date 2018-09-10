@@ -10,7 +10,7 @@ thumbnailImagePosition: left
 thumbnailImage: //s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122328.jpg
 ---
 
-Perfect Condo with fully furnished, easy access ways, very close to BTS.Prakhanong
+家具付き, `BTS Prakhan` すぐ近く
 <!--more-->
 
 <p></p>
