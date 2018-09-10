@@ -11,7 +11,7 @@ thumbnailImage: http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-ho
 
 ---
 
-Luxury condominium style resort base on T77,Sukhumvit 77(Onnut 1/1) nearby Habito community mall.Fully furnished, Ready to move in.
+スクンビット７７（Onnutソイ 1/1）にある高級感あふれるコンドになります。ハビトモールすぐ近くで、直ぐに入居可能です。
 <!--more-->
 
 <p></p>
@@ -52,19 +52,19 @@ Luxury condominium style resort base on T77,Sukhumvit 77(Onnut 1/1) nearby Habit
 
 |  |  |
 |----------|------------|
-| Rent Fee | 42,000 THB / Month |
-| Security Deposit  | 84,000 THB |
-| Utility Fee |Included|
-| Room Type | 2 Bed Rooms |
-| Floor|2nd|
-| Space | 68.5 sqm |
-| Living Space | 68.5 sqm |
-| Terms of contract<br>(Minimum) | 1 Year |
+| 家賃 | 42,000 THB / Month |
+| デポジット  | 84,000 THB |
+| 光熱費等 |Included|
+| 部屋サイズ | 2 Bed Rooms |
+| 階 |2nd|
+| 広さ | 68.5 sqm |
+| リビング広さ | 68.5 sqm |
+| 契約期間<br>(最低) | 1年 |
 
 
 <p></p>
 
-### Map
+### 地図
 
 <p></p>
 
@@ -72,45 +72,44 @@ Luxury condominium style resort base on T77,Sukhumvit 77(Onnut 1/1) nearby Habit
 
 <p></p>
 
-### Description
+### 概要
 
 <p></p>
 Nearby Big C, Tesco Lotus, Century Mall, BTS.Onnut, Easy access ways, close to International School.
 
+### 家具等
 
-### Furniture
+- [x] ベッド
+- [x] マットレス
+- [x] ワードロープ
+- [x] ソファ
+- [x] デスク
+- [x] 食事用テーブル
+- [x] 下駄箱
 
-- [x] Bed
-- [x] Mattress
-- [x] Wardrobe
-- [x] Sofa
-- [x] Working Desk
-- [x] Dining Table
-- [x] Shoe Cabinet
+### 家電等
 
-### Appliance
+- [x] エアコン
+- [x] 湯沸かし器
+- [x] 電子レンジ
+- [x] 冷蔵庫
+- [x] 洗濯機
+- [x] テレビ
+- [x] キッチン 
 
-- [x] Air Conditioner
-- [x] Water Heater
-- [x] Microwave
-- [x] Refrigerater
-- [x] Washing Machine
-- [x] TV
-- [x] Kitchen fully equipped
+### 設備
 
-### Facilities
-
-- [x] Fitness
-- [x] Yoga Room
-- [x] Sauna Room
-- [x] Playground
-- [x] Private Parking
-- [x] Swimming Pool
-- [x] Card Access
+- [x] フィットネス
+- [x] ヨガ
+- [x] サウナ
+- [x] 遊び場
+- [x] パーキング
+- [x] プール
+- [x] カードキー
 - [x] CCTV
-- [x] 24H Secirity Services
+- [x] 24時間監視
 
-### Contact
+### コンタクト
 
 Tel: <a href="tel:062 897 4555">062 897 4555</a><br>
 Email: <a href="mailto:property@suneikii.com">property@suneikii.com</a>

@@ -17,7 +17,7 @@ thumbnailImage: //s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiu
 
 {{< wide-image src="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122328.jpg" title="The Bloom Sukhumvit 71" >}}
 
-### Rooms
+### ルーム等の写真
 
 <p></p>
 
@@ -49,23 +49,23 @@ thumbnailImage: //s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiu
 
 <p></p>
 
-### Basic Info
+### 基本情報
 
 |  |  |
 |----------|------------|
-| Rent Fee |45,000 / Month |
-| Deposit  | 90,000B |
-| Utility Fee | Included |
-| Room Type | 1 Bed Room |
-| Address | - |
-| Space | 88 sqm |
-| Living Space | 88 sqm |
-| Terms of contract<br>(miminim) | 1 Year |
+| 家賃 |45,000 / Month |
+| デポジット  | 90,000B |
+| 光熱費等 | 家賃に含む |
+| 部屋サイズ | 1 Bed Room |
+| 住所 | - |
+| 広さ | 88 sqm |
+| リビングの広さ | 88 sqm |
+| 契約期間<br>(最低) | 1 Year |
 
 
 <p></p>
 
-### Map
+### 地図
 
 <p></p>
 
@@ -74,39 +74,39 @@ thumbnailImage: //s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiu
 <p></p>
 
 
-### Furniture
+### 家具等
 
-- [x] Bed
-- [x] Mattress
-- [x] Wardrobe
-- [x] Sofa
-- [x] Working Desk
-- [x] Dining Table
-- [x] Shoe Cabinet
+- [x] ベッド
+- [x] マットレス
+- [x] ワードロープ
+- [x] ソファ
+- [x] デスク
+- [x] 食事用テーブル
+- [x] 下駄箱
 
-### Appliance
+### 家電等
 
-- [x] Air Conditioner
-- [x] Water Heater
-- [x] Microwave
-- [x] Refrigerater
-- [x] Washing Machine
-- [x] TV
-- [x] Kitchen 
+- [x] エアコン
+- [x] 湯沸かし器
+- [x] 電子レンジ
+- [x] 冷蔵庫
+- [x] 洗濯機
+- [x] テレビ
+- [x] キッチン 
 
-### Facilities
+### 設備
 
-- [x] Fitness
-- [x] Yoga Room
-- [x] Sauna Room
-- [x] Playground
-- [x] Private Parking
-- [x] Swimming Pool
-- [x] Card Access
+- [x] フィットネス
+- [x] ヨガ
+- [x] サウナ
+- [x] 遊び場
+- [x] パーキング
+- [x] プール
+- [x] カードキー
 - [x] CCTV
-- [x] 24H Secirity Services
+- [x] 24時間監視
 
-### Contact
+### コンタクト
 
 Tel: <a href="tel:062 897 4555">062 897 4555</a><br>
 Email: <a href="mailto:property@suneikii.com">property@suneikii.com</a>
