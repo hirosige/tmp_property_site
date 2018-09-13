@@ -1,6 +1,6 @@
 ---
 title: "The Bloom Sukhumvit 71"
-date: 2018-09-10T22:02:55+07:00
+date: 2018-09-10T16:50:22+07:00
 categories:
 - condominium
 tags:
