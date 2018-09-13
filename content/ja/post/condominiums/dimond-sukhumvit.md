@@ -1,6 +1,6 @@
 ---
 title: "Dimond Sukhumvit"
-date: 2018-09-10T22:02:54+07:00
+date: 2018-09-10T20:55:08+07:00
 categories:
 - condominium
 tags:
