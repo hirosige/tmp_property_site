@@ -7,7 +7,7 @@ tags:
 - brand-new
 - hot
 thumbnailImagePosition: left
-thumbnailImage: http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105240.jpg
+thumbnailImage: https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105240.jpg
 
 ---
 
@@ -16,35 +16,35 @@ thumbnailImage: http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-ho
 
 <p></p>
 
-{{< wide-image src="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105241_0.jpg" title="Mori Hous" >}}
+{{< wide-image src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105241_0.jpg" title="Mori Hous" >}}
 
 ### Rooms
 
 <p></p>
 
-{{< image classes="fancybox fig-100" src="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105241.jpg" thumbnail="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105241.jpg" >}}
+{{< image classes="fancybox fig-100" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105241.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105241.jpg" >}}
 
-{{< image classes="fancybox nocaption fig-50" src="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105242.jpg" thumbnail="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105242.jpg" title="Ferrari" >}}
+{{< image classes="fancybox nocaption fig-50" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105242.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105242.jpg" title="Ferrari" >}}
 
-{{< image classes="fancybox nocaption fig-50" src="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105243.jpg" thumbnail="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105243.jpg" title="BMW i8 Concept" >}}
+{{< image classes="fancybox nocaption fig-50" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105243.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105243.jpg" title="BMW i8 Concept" >}}
 
-{{< image classes="fancybox nocaption fig-33" src="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105246_0.jpg" thumbnail="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105246_0.jpg" >}}
+{{< image classes="fancybox nocaption fig-33" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105246_0.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105246_0.jpg" >}}
 
-{{< image classes="fancybox nocaption fig-33" src="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105244_0.jpg" thumbnail="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105244_0.jpg" >}}
+{{< image classes="fancybox nocaption fig-33" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105244_0.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105244_0.jpg" >}}
 
-{{< image classes="fancybox nocaption fig-33" src="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105244.jpg" thumbnail="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105244.jpg" >}}
+{{< image classes="fancybox nocaption fig-33" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105244.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105244.jpg" >}}
 
-{{< image classes="fancybox nocaption fig-100" src="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105247.jpg" thumbnail="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105247.jpg" >}}
+{{< image classes="fancybox nocaption fig-100" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105247.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105247.jpg" >}}
 
-{{< image classes="fancybox nocaption fig-50" src="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105251.jpg" thumbnail="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105251.jpg" >}}
+{{< image classes="fancybox nocaption fig-50" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105251.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105251.jpg" >}}
 
-{{< image classes="fancybox nocaption fig-50" src="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105252.jpg" thumbnail="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105252.jpg" >}}
+{{< image classes="fancybox nocaption fig-50" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105252.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105252.jpg" >}}
 
-{{< image classes="fancybox nocaption fig-100" src="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105250.jpg" thumbnail="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105250.jpg" >}}
+{{< image classes="fancybox nocaption fig-100" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105250.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105250.jpg" >}}
 
-{{< image classes="fancybox nocaption fig-10" src="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105251_0.jpg" thumbnail="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105251_0.jpg" >}}
+{{< image classes="fancybox nocaption fig-10" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105251_0.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105251_0.jpg" >}}
 
-{{< image classes="fancybox nocaption fig-100" src="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105249.jpg" thumbnail="http://suneikii.com.s3.amazonaws.com/assets/condominiums/mori-hous/timeline_25610904_105249.jpg" >}}
+{{< image classes="fancybox nocaption fig-100" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105249.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/mori-hous/timeline_25610904_105249.jpg" >}}
 
 <p></p>
 

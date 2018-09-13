@@ -7,7 +7,7 @@ tags:
 - rent
 - condo
 thumbnailImagePosition: left
-thumbnailImage: //s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122328.jpg
+thumbnailImage: https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122328.jpg
 ---
 
 Perfect Condo with fully furnished, easy access ways, very close to BTS.Prakhanong
@@ -15,37 +15,37 @@ Perfect Condo with fully furnished, easy access ways, very close to BTS.Prakhano
 
 <p></p>
 
-{{< wide-image src="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122328.jpg" title="The Bloom Sukhumvit 71" >}}
+{{< wide-image src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122328.jpg" title="The Bloom Sukhumvit 71" >}}
 
 ### Rooms
 
 <p></p>
 
-{{< image classes="fancybox fig-100" src="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122329.jpg" thumbnail="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122329.jpg" >}}
+{{< image classes="fancybox fig-100" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122329.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122329.jpg" >}}
 
-{{< image classes="fancybox nocaption fig-50" src="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122330_0.jpg" thumbnail="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122330_0.jpg" title="Ferrari" >}}
+{{< image classes="fancybox nocaption fig-50" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122330_0.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122330_0.jpg" title="Ferrari" >}}
 
-{{< image classes="fancybox nocaption fig-50" src="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122330.jpg" thumbnail="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122330.jpg" title="BMW i8 Concept" >}}
+{{< image classes="fancybox nocaption fig-50" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122330.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122330.jpg" title="BMW i8 Concept" >}}
 
-{{< image classes="fancybox nocaption fig-33" src="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122334_0.jpg" thumbnail="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122334_0.jpg" >}}
+{{< image classes="fancybox nocaption fig-33" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.comassets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122334_0.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122334_0.jpg" >}}
 
-{{< image classes="fancybox nocaption fig-33" src="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122331.jpg" thumbnail="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122331.jpg" >}}
+{{< image classes="fancybox nocaption fig-33" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122331.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122331.jpg" >}}
 
-{{< image classes="fancybox nocaption fig-33" src="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122333.jpg" thumbnail="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122333.jpg" >}}
+{{< image classes="fancybox nocaption fig-33" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122333.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122333.jpg" >}}
 
-{{< image classes="fancybox nocaption fig-50" src="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122339.jpg" thumbnail="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122339.jpg" >}}
+{{< image classes="fancybox nocaption fig-50" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122339.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122339.jpg" >}}
 
-{{< image classes="fancybox nocaption fig-50" src="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122334.jpg" thumbnail="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122334.jpg" >}}
+{{< image classes="fancybox nocaption fig-50" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122334.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122334.jpg" >}}
 
-{{< image classes="fancybox nocaption fig-33"  src="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122331_0.jpg" thumbnail="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122331_0.jpg" height="300" >}}
+{{< image classes="fancybox nocaption fig-33"  src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122331_0.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122331_0.jpg" height="300" >}}
 
-{{< image classes="fancybox nocaption fig-33" src="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122335.jpg" thumbnail="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122335.jpg" >}}
+{{< image classes="fancybox nocaption fig-33" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122335.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122335.jpg" >}}
 
-{{< image classes="fancybox nocaption fig-33" src="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122337.jpg" thumbnail="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122337.jpg" >}}
+{{< image classes="fancybox nocaption fig-33" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122337.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122337.jpg" >}}
 
-{{< image classes="fancybox nocaption fig-70" src="//s3-ap-southeast-1.amazonaws.com/suneikii.comm/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122336.jpg" thumbnail="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122336.jpg" >}}
+{{< image classes="fancybox nocaption fig-70" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122336.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122336.jpg" >}}
 
-{{< image classes="fancybox nocaption fig-1" src="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122338_0.jpg" thumbnail="//s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122338_0.jpg" >}}
+{{< image classes="fancybox nocaption fig-1" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122338_0.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/the-bloom-sukhumvit-71/timeline_25610831_122338_0.jpg" >}}
 
 <p></p>
 
@@ -65,14 +65,13 @@ Perfect Condo with fully furnished, easy access ways, very close to BTS.Prakhano
 
 <p></p>
 
-### Map
+### Maps
 
 <p></p>
 
 <iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ-1Ia4L6f4jAR13RexLukKhk&key=AIzaSyDdueX_zbg1XGbwPCLZqpc_trVmgbaPs1I" allowfullscreen></iframe>
 
 <p></p>
-
 
 ### Furniture
 
