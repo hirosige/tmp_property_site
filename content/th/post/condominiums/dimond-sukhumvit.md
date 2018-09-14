@@ -11,7 +11,7 @@ thumbnailImage: https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/cond
 
 ---
 
-Nice Codo Fully furnished for rent, only 5 minutes walk to BTS.Onnut, very close to Tesco Lotus Onnut, Century Mall, BigC Onnut, easy access ways to express way Sukhumvit 50.
+Nice Condo Fully furnished for rent, only 5 minutes walk to BTS.Onnut, very close to Tesco Lotus Onnut, Century Mall, BigC Onnut, easy access ways to express way Sukhumvit 50.
 <!--more-->
 
 <p></p>
