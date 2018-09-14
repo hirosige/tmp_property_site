@@ -110,6 +110,13 @@ section = ""
 
 [[menu.main]]
   weight = 6
+  identifier = "properties"
+  name = "Properties"
+  pre = "<i class=\"sidebar-button-icon far fa-newspaper\"></i>"
+  url = "/properties"
+
+[[menu.main]]
+  weight = 7
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
