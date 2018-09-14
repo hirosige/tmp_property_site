@@ -61,7 +61,7 @@ If your looking for nice and warm place with perfect facilities for single or co
 
 <p></p>
 
-<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Rhythm%20Asoke2&key=AIzaSyDdueX_zbg1XGbwPCLZqpc_trVmgbaPs1I" allowfullscreen></iframe>key=AIzaSyDdueX_zbg1XGbwPCLZqpc_trVmgbaPs1I" allowfullscreen></iframe>
+<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Rhythm%20Asoke2&key=AIzaSyDdueX_zbg1XGbwPCLZqpc_trVmgbaPs1I" allowfullscreen></iframe>
 
 <p></p>
 
