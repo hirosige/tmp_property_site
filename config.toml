@@ -14,7 +14,7 @@
 baseURL = "https://suneikii.com/"
 defaultContentLanguage = "en"
 title = "Suneikii Properties"
-description = "We providing you the best"
+description = "We provide you the best"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "suneikii-property"
 googleAnalytics = "UA-106341812-3"
@@ -30,7 +30,7 @@ section = ""
   languageName = "English"
   countryCode = "us"
   title = "Suneikii Properties"
-  description = "We providing you the best"
+  description = "We provide you the best"
   weight = 0
 
 [languages.th]
@@ -38,7 +38,7 @@ section = ""
   languageName = "Thai"
   countryCode = "th"
   title = "Suneikii Properties"
-  description = "We providing you the best"
+  description = "We provide you the best"
   weight = 1
 
 [languages.ja]
@@ -46,7 +46,7 @@ section = ""
   languageName = "Japanese"
   countryCode = "jp"
   title = "Suneikii Properties"
-  description = "We providing you the best"
+  description = "We provide you the best"
   weight = 2
 
 [permalinks]
@@ -60,8 +60,8 @@ section = ""
   terms_of_use = "terms_of_use"
 
 [author]
-  name = "Suneikii Property"
-  bio = "We providing you the best"
+  name = "Suneikii Properties"
+  bio = "We provide you the best"
   job = "Business Development"
   location = "Bangkok"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
