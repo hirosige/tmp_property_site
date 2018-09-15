@@ -1,40 +1,117 @@
 {{ partial "head_home.html" . }}
-  <body>
-    <section class="hero is-success is-fullheight" style="background: #2196F3;">
-      <!-- Hero head: will stick at the top -->
-      <div class="hero-head">
-        <header class="navbar">
-          <div class="container">
-            <div class="navbar-brand">
-              <a class="navbar-item">
-                {{ .Title }}
-              </a>
-              <span class="navbar-burger burger" data-target="navbarMenuHeroC">
-                <span></span>
-                <span></span>
-                <span></span>
-              </span>
-            </div>
-            <div id="navbarMenuHeroC" class="navbar-menu">
+  <body style="color: rgb(255, 255, 255); background: #2196F3;">
+    <div class="hero-image">
+      <section class="hero is-success is-fullheight" style="background: rgba(33, 150, 243, 0.2);">
+        <!-- Hero head: will stick at the top -->
+        <div class="hero-head">
+          <header class="navbar">
+            <div class="container">
               <div class="navbar-end">
-                <a class="navbar-item is-active" href="/ja/properties">
-                  物件探しはこちら
+                <a class="navbar-item is-active" href="/properties" style="position: fixed; right: 0;">
+                  <i class="far fa-thumbs-up fa-spin"></i> &nbsp;物件探しはこちら
                 </a>
               </div>
             </div>
+          </header>
+        </div>
+
+        <div class="hero-body">
+          <div class="container has-text-centered">
+            <h1 class="title" style="font-size: 4rem;">
+              {{ .Title }}
+            </h1>
+            <h2 class="subtitle" style="font-size: 2rem;">
+              We provide you the best
+            </h2>
           </div>
-        </header>
-      </div>
+        </div>
+      </section>
+    </div>
     
-      <!-- Hero content: will be in the middle -->
-      <div class="hero-body">
-        <div class="container has-text-centered">
-          <h1 class="title" style="font-size: 3rem;">
-            {{ .Title }}
-          </h1>
-          <h2 class="subtitle" style="font-size: 1.4rem;">
-            We providing you the best
-          </h2>
+    <div class="columns is-desktop media-base">
+      <div class="column">
+        <img src="https://www.pakutaso.com/shared/img/thumb/KAZU-bgftdrtfgh_TP_V.jpg">
+      </div>
+      <div class="column padding">
+        <div class="content">
+          <h1 style="color: rgb(255, 255, 255);">Suneikii Properties Find Your Best Home</h1>
+          <p>
+            Suneikii Properties we never give up to find your best home that is suitable for each customer.
+
+            We provide sales and rent service for each property such as condominium, apartment, house, land, business.
+            
+            please feel free to contact.
+          </p>
         </div>
       </div>
-    </section>
+    </div>
+    <div class="columns is-desktop media-base">
+      <div class="column padding">
+        <div class="content">
+          <h1 style="color: rgb(255, 255, 255);">Suneikii Properties Sincerely Take Care Each Customer.</h1>
+          <p>
+            Suneikii Properties we do the best to provide customer support.
+
+            to do that, we focus not only phone call/email but also provide
+            Facebook/Twitter contact for quick response.
+          </p>
+        </div>
+      </div>
+      <div class="column">
+        <img src="https://www.pakutaso.com/shared/img/thumb/PAK85_telshinagaramemowosuru1292_TP_V.jpg">
+      </div>
+    </div>
+    <div class="columns is-desktop media-base">
+      <div class="column">
+        <img src="https://www.pakutaso.com/shared/img/thumb/gorisanIMGL9690_TP_V.jpg">
+      </div>
+      <div class="column padding">
+        <div class="content">
+          <h1 style="color: rgb(255, 255, 255);">Suneikii Property Focus on both Customer First and Developer First</h1>
+          <p>
+            We have not only customer first sprit but also developer first.
+            to get synergy between business and technology.
+            
+            we take advantage of AI/IoT development to accelerate our app usability.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="columns is-desktop media-base">
+      <div class="column padding">
+        <div class="content">
+          <h1 style="color: rgb(255, 255, 255);">Suneikii Properties Focus on Global Market by Cloud</h1>
+          <p>
+            Suneikii Properties we originally work in Bkk Thailand,
+            however we plan to expand business by using cloud technology.
+            
+            We do provide user friendly service.
+          </p>
+        </div>
+      </div>
+      <div class="column">
+        <img src="https://www.pakutaso.com/shared/img/thumb/ZUB_DSC_0347_TP_V.jpg">
+      </div>
+    </div>
+    <style>
+      .media-base {
+        color: #ffffff;
+        background: #2196F3;
+        margin: 0;
+        padding: 0;
+      }
+      .padding {
+        padding: 40px;
+      }
+      .media-header {
+        color: #ffffff;
+      }
+      .hero-image {
+        background-image: url(https://www.pakutaso.com/shared/img/thumb/DSCF8497_TP_V.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 100vh;
+        width: 100vw;
+      }
+    </style>
+　 
