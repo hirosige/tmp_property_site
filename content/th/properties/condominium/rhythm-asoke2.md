@@ -15,7 +15,7 @@ If your looking for nice and warm place with perfect facilities for single or co
 
 <p></p>
 
-{{< wide-image src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/C002%20Rythm%20Asoke2/timeline_25610905_143617_0.jpg" title="The No.2 Condo" >}}
+{{< wide-image src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/C002%20Rythm%20Asoke2/timeline_25610905_143617_0.jpg" title="Rhythm Asoke2" >}}
 
 ### Rooms
 

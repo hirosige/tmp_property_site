@@ -15,7 +15,7 @@ Nice Condo located on Sukhumvit 26, only 650 m.from BTS.Prompong,nearby K-Villag
 
 <p></p>
 
-{{< wide-image src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/C037%20Condolette%20Dwell%20Sukhumvit%2026/timeline_25610830_111120.jpg" title="The No.2 Condo" >}}
+{{< wide-image src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/C037%20Condolette%20Dwell%20Sukhumvit%2026/timeline_25610830_111120.jpg" title="Dwell Sukhumvit26" >}}
 
 ### Rooms
 

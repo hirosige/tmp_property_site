@@ -16,7 +16,7 @@ Nice Condo Fully furnished for rent, only 5 minutes walk to BTS.Onnut, very clos
 
 <p></p>
 
-{{< wide-image src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/dimond-sukhumvit48/timeline_25610904_113630.jpg" title="The No.2 Condo" >}}
+{{< wide-image src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/dimond-sukhumvit48/timeline_25610904_113630.jpg" title="Dimond Sukhumvit" >}}
 
 ### Rooms
 
