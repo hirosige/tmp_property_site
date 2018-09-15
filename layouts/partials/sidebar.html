@@ -18,9 +18,6 @@
       {{ partial "menu.html" (dict "menu" .Site.Menus.links "root" $) }}
     </ul>
     <ul class="sidebar-buttons">
-      {{ partial "menu.html" (dict "menu" .Site.Menus.misc "root" $) }}
-    </ul>
-    <ul class="sidebar-buttons">
       {{ range $.Site.Home.AllTranslations }}
         <li class="sidebar-button">
           <a class="sidebar-button-link" href="{{ .Permalink }}">

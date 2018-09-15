@@ -20,6 +20,9 @@
 - id: "global.blog"
   translation: "Blog"
 
+- id: "global.properties"
+  translation: "Properties"
+
 - id: "global.facebook"
   translation: "Our Facebook"
 
