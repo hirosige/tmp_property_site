@@ -20,6 +20,9 @@
 - id: "global.blog"
   translation: "コラム"
 
+- id: "global.properties"
+  translation: "物件探し"
+
 - id: "global.facebook"
   translation: "Facebook"
 

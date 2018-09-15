@@ -1,0 +1,40 @@
+{{ partial "head_home.html" . }}
+  <body>
+    <section class="hero is-success is-fullheight" style="background: #2196F3;">
+      <!-- Hero head: will stick at the top -->
+      <div class="hero-head">
+        <header class="navbar">
+          <div class="container">
+            <div class="navbar-brand">
+              <a class="navbar-item">
+                Suneikii Property
+              </a>
+              <span class="navbar-burger burger" data-target="navbarMenuHeroC">
+                <span></span>
+                <span></span>
+                <span></span>
+              </span>
+            </div>
+            <div id="navbarMenuHeroC" class="navbar-menu">
+              <div class="navbar-end">
+                <a class="navbar-item is-active" href="/properties">
+                  Look for Properties
+                </a>
+              </div>
+            </div>
+          </div>
+        </header>
+      </div>
+    
+      <!-- Hero content: will be in the middle -->
+      <div class="hero-body">
+        <div class="container has-text-centered">
+          <h1 class="title" style="font-size: 3rem;">
+            {{ .Title }}
+          </h1>
+          <h2 class="subtitle" style="font-size: 1.4rem;">
+            We providing you the best
+          </h2>
+        </div>
+      </div>
+    </section>

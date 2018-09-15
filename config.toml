@@ -14,6 +14,7 @@
 baseURL = "https://suneikii.com/"
 defaultContentLanguage = "en"
 title = "Suneikii Property"
+description = "We providing you the best"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "suneikii-property"
 googleAnalytics = "UA-106341812-3"
@@ -82,45 +83,38 @@ section = ""
 
 [[menu.main]]
   weight = 2
-  identifier = "categories"
-  name = "Categories"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
-  url = "/categories"
-
-[[menu.main]]
-  weight = 3
-  identifier = "tags"
-  name = "Tags"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
-  url = "/tags"
-
-[[menu.main]]
-  weight = 4
-  identifier = "archives"
-  name = "Archives"
-  pre = "<i class=\"sidebar-button-icon fas fa-calendar-alt\"></i>"
-  url = "/archives"
-
-[[menu.main]]
-  weight = 5
-  identifier = "blog"
-  name = "Blog"
-  pre = "<i class=\"sidebar-button-icon far fa-newspaper\"></i>"
-  url = "/articles"
-
-[[menu.main]]
-  weight = 6
   identifier = "properties"
   name = "Properties"
   pre = "<i class=\"sidebar-button-icon far fa-newspaper\"></i>"
   url = "/properties"
 
 [[menu.main]]
-  weight = 7
-  identifier = "about"
-  name = "About"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-  url = "/#about"
+  weight = 3
+  identifier = "blog"
+  name = "Blog"
+  pre = "<i class=\"sidebar-button-icon far fa-newspaper\"></i>"
+  url = "/articles"
+
+[[menu.main]]
+  weight = 4
+  identifier = "categories"
+  name = "Categories"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
+  url = "/categories"
+
+[[menu.main]]
+  weight = 5
+  identifier = "tags"
+  name = "Tags"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
+  url = "/tags"
+
+[[menu.main]]
+  weight = 6
+  identifier = "archives"
+  name = "Archives"
+  pre = "<i class=\"sidebar-button-icon fas fa-calendar-alt\"></i>"
+  url = "/archives"
 
 [[menu.links]]
   weight = 1
@@ -143,19 +137,26 @@ section = ""
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-envelope\"></i>"
   url = "mailto: property@suneikii.com"
 
-[[menu.misc]]
-  weight = 1
+[[menu.links]]
+  weight = 4
   identifier = "privacy-policy"
   name = "Privacy Policy"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-user-shield\"></i>"
   url = "/privacy"
 
-[[menu.misc]]
-  weight = 2
+[[menu.links]]
+  weight = 5
   identifier = "terms_of_use"
   name = "Terms of Use"
   pre = "<i class=\"sidebar-button-icon far fa-lg fa-handshake\"></i>"
   url = "/terms_of_use"
+
+[[menu.links]]
+  weight = 6
+  identifier = "about"
+  name = "About"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
+  url = "/#about"
 
 [params]
   # Customize date format use to render blog post date, categories and other
