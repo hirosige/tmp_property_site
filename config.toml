@@ -13,7 +13,7 @@
 # use grunt task `build` to synchronize assets
 baseURL = "https://suneikii.com/"
 defaultContentLanguage = "en"
-title = "Suneikii Property"
+title = "Suneikii Properties"
 description = "We providing you the best"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "suneikii-property"
@@ -29,7 +29,7 @@ section = ""
   contentDir = "content/en"
   languageName = "English"
   countryCode = "us"
-  title = "Suneikii Property"
+  title = "Suneikii Properties"
   description = "We providing you the best"
   weight = 0
 
@@ -37,7 +37,7 @@ section = ""
   contentDir = "content/th"
   languageName = "Thai"
   countryCode = "th"
-  title = "Suneikii Property"
+  title = "Suneikii Properties"
   description = "We providing you the best"
   weight = 1
 
@@ -45,7 +45,7 @@ section = ""
   contentDir = "content/ja"
   languageName = "Japanese"
   countryCode = "jp"
-  title = "Suneikii Property"
+  title = "Suneikii Properties"
   description = "We providing you the best"
   weight = 2
 
