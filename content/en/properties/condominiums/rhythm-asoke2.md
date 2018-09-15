@@ -33,9 +33,9 @@ If your looking for nice and warm place with perfect facilities for single or co
 
 {{< image classes="fancybox nocaption fig-50" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/C002%20Rythm%20Asoke2/timeline_25610905_143619.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/C002%20Rythm%20Asoke2/timeline_25610905_143619.jpg" >}}
 
-{{< image classes="fancybox nocaption fig-50" src="http://suneikii.com.s3.amazonaws.com/assets/condominiums/C002%20Rythm%20Asoke2/timeline_25610905_143617.jpg" thumbnail="http://suneikii.com.s3.amazonaws.com/assets/condominiums/C002%20Rythm%20Asoke2/timeline_25610905_143617.jpg" >}}
+{{< image classes="fancybox nocaption fig-50" src="https://s3-ap-southeast-1.amazonaws.com/assets/condominiums/C002%20Rythm%20Asoke2/timeline_25610905_143617.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/assets/condominiums/C002%20Rythm%20Asoke2/timeline_25610905_143617.jpg" >}}
 
-{{< image classes="fancybox nocaption fig-50" src="http://suneikii.com.s3.amazonaws.com/assets/condominiums/C002%20Rythm%20Asoke2/timeline_25610905_143617_0.jpg" thumbnail="http://suneikii.com.s3.amazonaws.com/assets/condominiums/C002%20Rythm%20Asoke2/timeline_25610905_143617_0.jpg" >}}
+{{< image classes="fancybox nocaption fig-50" src="https://s3-ap-southeast-1.amazonaws.com/assets/condominiums/C002%20Rythm%20Asoke2/timeline_25610905_143617_0.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/assets/condominiums/C002%20Rythm%20Asoke2/timeline_25610905_143617_0.jpg" >}}
 
 <p></p>
 
