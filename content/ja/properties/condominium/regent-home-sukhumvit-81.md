@@ -22,7 +22,7 @@ Modern Luxury resort style, uniquely embodied in this condo, Only 700 metters to
 
 <p></p>
 
-{{< image classes="fancybox fig-100" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/Regent%20Home%20Sukhumvit%2081/timeline_25610913_191247.jpg" thumbnail="http://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/Regent%20Home%20Sukhumvit%2081/timeline_25610913_191247.jpg" >}}
+{{< image classes="fancybox fig-100" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/Regent%20Home%20Sukhumvit%2081/timeline_25610913_191247.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/Regent%20Home%20Sukhumvit%2081/timeline_25610913_191247.jpg" >}}
 
 {{< image classes="fancybox nocaption fig-50" src="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/Regent%20Home%20Sukhumvit%2081/timeline_25610913_191249.jpg" thumbnail="https://s3-ap-southeast-1.amazonaws.com/suneikii.com/assets/condominiums/Regent%20Home%20Sukhumvit%2081/timeline_25610913_191249.jpg" title="BMW i8 Concept" >}}
 
